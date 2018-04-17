@@ -16,3 +16,5 @@ This dataset is compiled from the following wikipedia pages:
 [List of country names in various languages (J–P)](https://en.wikipedia.org/wiki/List_of_country_names_in_various_languages_(J%E2%80%93P))
 
 [List of country names in various languages (Q–Z)](https://en.wikipedia.org/wiki/List_of_country_names_in_various_languages_(Q%E2%80%93Z))
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 3.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/3.0/.
